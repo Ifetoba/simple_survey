@@ -1,0 +1,17 @@
+__pycache__/
+*.sqlite3
+login_logs.txt
+.vscode
+/static/
+/mirgations/
+/settings.py
+*.log
+.cache
+.env
+.virtualenvs/
+.venv/
+venv/
+env/
+/media/
+Thumbs.db
+ehthumbs.db
